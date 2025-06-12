@@ -195,7 +195,7 @@ export default function Termo() {
       </Modal>
 
       <SafeAreaView className="flex-1 items-center p-4">
-        <Text className="text-2xl font-bold mb-8">Tema - {theme}</Text>
+        <Text className="text-2xl text-center font-bold mb-8">{theme}</Text>
 
         <ScrollView>
           <View className="gap-2 px-4">
